@@ -1,4 +1,7 @@
 # ECF-Payment-Trends-Analysis
+
+<img width="1165" height="649" alt="image" src="https://github.com/user-attachments/assets/88d8ba54-869d-4daf-bb0f-bafb2f874a4e" />
+
 This Power BI Expense Claim Dashboard provides insights into expense trends, reimbursement status, payment efficiency, and budget allocation. Interactive visuals and DAX measures help employees track claims while enabling management to monitor spending, optimize approvals, and support data-driven financial decisions.
 # ECF Payment Trends & Analysis | Power BI Dashboard
 
