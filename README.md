@@ -147,7 +147,10 @@ Key business insights and recommendations for:
 
 ## Dashboard Preview
 
-(Add screenshots here)
+<img width="1171" height="660" alt="image" src="https://github.com/user-attachments/assets/2793de50-4269-4038-89be-05cf8bee9b7a" />
+<img width="1164" height="653" alt="image" src="https://github.com/user-attachments/assets/079c365e-12ab-4e43-916f-82a861bf67d7" />
+<img width="1168" height="662" alt="image" src="https://github.com/user-attachments/assets/aef49898-d484-426c-8d64-6bd1010ee8a4" />
+
 
 ---
 
